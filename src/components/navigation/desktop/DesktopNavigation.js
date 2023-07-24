@@ -71,7 +71,7 @@ export function DesktopNavigation(props) {
           <NavigationButton route="/">Home</NavigationButton>
           <NavigationButton route="/edit">Editor</NavigationButton>
           <NavigationButton href={props.documentationHref}>
-            Docs
+            Manual
             <ArrowUpRight />
           </NavigationButton>
         </div>
